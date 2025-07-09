@@ -47,7 +47,7 @@ An MVP of an e-commerce using vanilla java and email integration to help users o
 **Tech Stack:** Laravel, React 
 
 **Description:**  
-A mini web application developed in 4hour and some few adjustments after the challenge to enable users track thier habits.
+A mini web application developed in 4hours and some few adjustments after the challenge to enable users track thier habits.
 The user will input the habit name, target, so the bar will be coloured depending on how often the user comiits
 the habit. [Habit Tracker](https://github.com/Poloko-dev/Habit-_Tracker)
 
