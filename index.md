@@ -56,6 +56,6 @@ demonstrate that. [Github repository](https://github.com/Poloko-dev/Crop_Disease
 
 - **📧 Email:** polokonkolanyane92@gmail.com  
 - **💼 LinkedIn:** [Poloko Nkolanyane](https://linkedin.com/in/poloko-nkolanyane-379925221)  
-- **💻 GitHub:** [github.com/yourname](https://github.com/Poloko-dev)
+- **💻 GitHub:** [Poloko-dev](https://github.com/Poloko-dev)
 
 _Thanks for stopping by! ✨_
