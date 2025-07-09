@@ -9,7 +9,7 @@ I'm a software engineering student currently participating in the **Africa Code 
 - **Full Name:** Poloko Nkolanyane 
 - **Location:** Maseru, Lesotho  
 - **Education:** Bsc (hons) in Computing (Software Engineering Major) - Present
-- **Tech Stack:** [SpringBoot, Laravel, Express.js, React, MySQL, SQLServer, MongoDB]  
+- **Tech Stack:** SpringBoot, Laravel, Express.js, React, MySQL, SQLServer, MongoDB 
 
 ---
 
@@ -41,14 +41,15 @@ Through this program and beyond, I aim to:
 
 **Description:**  
 An MVP of an e-commerce using vanilla java and email integration to help users order products online
-[Github repository](https://github.com/Poloko-dev/Trendsphere)
+[TrendSphere](https://github.com/Poloko-dev/Trendsphere)
 
-### 📌 *Crop disease detection model*  
-**Tech Stack:** TensorFlow
+### 📌 *Habit Tracker Application*  
+**Tech Stack:** Laravel, React 
 
 **Description:**  
-An MVP model that will let a user upload the picture of a crop then the model will classify the crop disease or as healthy if its leafs 
-demonstrate that. [Github repository](https://github.com/Poloko-dev/Crop_Disease_Detection)
+A mini web application developed in 4hour and some few adjustments after the challenge to enable users track thier habits.
+The user will input the habit name, target, so the bar will be coloured depending on how often the user comiits
+the habit. [Habit Tracker](https://github.com/Poloko-dev/Habit-_Tracker)
 
 ---
 
