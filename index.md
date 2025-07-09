@@ -1,45 +1,61 @@
-# My Personal Bio
+# 👋 Hi, I’m Poloko Nkolanyane
 
-## About Me
-Hello! My name is [Your Name]. I am a participant in the Africa Code Academy Engineering Residency Program 2024.
-
-## Background
-- **Name:** [Your Full Name]
-- **Location:** [Your Location]
-- **Education:** [Your Education Background]
-- **Skills:** [List of Skills]
-
-## Journey
-### Early Life
-[Describe your early life and how you got interested in software development.]
-
-### Education and Career
-[Describe your education journey and any relevant work experience.]
-
-### Goals
-[Outline your goals for the future and what you hope to achieve through this program.]
-
-## Projects
-### Project 1
-[Description of the first project]
-
-### Project 2
-[Description of the second project]
-
-## Contact
-- **Email:** [Your Email]
-- **LinkedIn:** [Your LinkedIn Profile]
-- **GitHub:** [Your GitHub Profile]
+I'm a software engineering student currently participating in the **Africa Code Academy Engineering Residency Program – 2025**. I’m passionate about building scalable software solutions, solving real-world problems with technology, and constantly learning.
 
 ---
 
-# Alternate Mult-Page Template
+## 🔍 Who I Am
 
-## Sections
+- **Full Name:** Poloko Nkolanyane 
+- **Location:** Maseru, Lesotho  
+- **Education:** Bsc (hons) in Computing (Software Engineering Major) - Present
+- **Tech Stack:** [SpringBoot, Laravel, Express.js, React, MySQL, SQLServer, MongoDB]  
 
-- [About Me](about.md)
-- [Skills](skills.md)
-- [Projects](projects/index.md)
-- [Contact](contact.md)
+---
 
-This is the main landing page for your profile. Customize it to introduce yourself and provide links to other sections.
+## 🚀 My Journey
+
+### 🌱 From Curiosity to Code  
+I’ve always been intrigued by how things work, and this curiosity naturally led me into the world of software development.  
+Back in high school I enjoyed solving methamatical problems and when I discovered about software development, I used my phone to learn basics of html without any formal lead, but that's how I discovered I am a software Enigineer.
+
+### 🎓 Education & Experience  
+My academic path has given me a strong foundation in software development, and I've supplemented that with hands-on experience through: 
+* personal projects
+* Enrolling and taking Applied AI in Computer Vision course at WorldQuant University
+* Joining a recidency program at Africa Code Academy
+
+### 🎯 Vision & Goals  
+Through this program and beyond, I aim to:
+- Learn how to learn and work in collaborative environments
+- Contribute to open-source projects  
+- Grow into a well-rounded full-stack developer  
+- Mentor upcoming devs and promote tech accessibility in Africa  
+
+---
+
+## 🛠️ Featured Projects
+
+### 📌 *TrendSphere*  
+**Tech Stack:** HTML, CSS, Java, MySQL
+
+**Description:**  
+An MVP of an e-commerce using vanilla java and email integration to help users order products online
+[Github repository](https://github.com/Poloko-dev/Trendsphere)
+
+### 📌 *Crop disease detection model*  
+**Tech Stack:** TensorFlow
+
+**Description:**  
+An MVP model that will let a user upload the picture of a crop then the model will classify the crop disease or as healthy if its leafs 
+demonstrate that. [Github repository](https://github.com/Poloko-dev/Crop_Disease_Detection)
+
+---
+
+## 📬 Let’s Connect
+
+- **📧 Email:** polokonkolanyane92@gmail.com  
+- **💼 LinkedIn:** [Poloko Nkolanyane](https://linkedin.com/in/poloko-nkolanyane-379925221)  
+- **💻 GitHub:** [github.com/yourname](https://github.com/Poloko-dev)
+
+_Thanks for stopping by! ✨_
